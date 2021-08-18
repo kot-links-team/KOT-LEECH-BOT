@@ -11,3 +11,7 @@ AUTH_CHANNEL: Create a Super Group in Telegram, add @GoogleIMGBot to the group, 
 
 OWNER_ID: ID of the bot owner, He/she can be abled to access bot in bot only mode too(private mode).
 
+REPO WILL GIVE SOON GUYS 🤪🤪
+
+NEED MATARILES 👇👇👇👇
+
