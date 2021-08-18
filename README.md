@@ -13,7 +13,7 @@ OWNER_ID: ID of the bot owner, He/she can be abled to access bot in bot only mod
 
 REPO WILL GIVE SOON GUYS 🤪🤪
 
-NEED MATARILES 👇👇👇👇
+REQUIRED MATARILES 👇👇👇👇
 
 TELEGRAM API : FROM 
 
