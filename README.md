@@ -26,37 +26,54 @@ BOT TOKEN : FROM
 OWNER ID : FROM
 
 README.md
-MAXX LEECH V2
+
+KOT_BOTS V1
 
 point_right Orginal Repository
 
-Maxx
+)KOT
 
 #Don't Kill Heroku please frowning_face
 
-MAXX LEECH
+KOT LEECH
 
 Benefits :-
 ✓ Google Drive link cloning using gclone.(wip)
-✓ Telegram File mirrorring to cloud along with its unzipping, unrar and untar
-✓ Drive/Teamdrive support/All other cloud services rclone.org supports
-✓ Unzip
-✓ Unrar
-✓ Untar
-✓ Custom file name
-✓ Custom commands
-✓ Get total size of your working cloud directory
-✓ You can also upload files downloaded from /ytdl command to gdrive using `/ytdl gdrive` command.
-✓ You can also deploy this on your VPS
-✓ Option to select either video will be uploaded as document or streamable
-✓ Added /renewme command to clear the downloads which are not deleted automatically.
-✓ Added support for youtube playlist 😐
-✓ Renaming of Telegram files support added. 😐
-✓ Changing rclone destination config on fly (By using `/rlcone` in private mode)
-✓
-Maxx point_down
 
-Mandatory Variables
+✓ Telegram File mirrorring to cloud along with its unzipping, unrar and untar
+
+✓ Drive/Teamdrive support/All other cloud services rclone.org supports
+
+✓ Unzip
+
+✓ Unrar
+
+✓ Untar
+
+✓ Custom file name
+
+✓ Custom commands
+
+✓ Get total size of your working cloud directory
+
+✓ You can also upload files downloaded from /ytdl command to gdrive using `/ytdl gdrive` command.
+
+✓ You can also deploy this on your VPS
+
+✓ Option to select either video will be uploaded as document or streamable
+
+✓ Added /renewme command to clear the downloads which are not deleted automatically.
+
+✓ Added support for youtube playlist 😐
+
+✓ Renaming of Telegram files support added. 😐
+
+✓ Changing rclone destination config on fly (By using `/rlcone` in private mode)
+
+-----------------------------------------------------------------------------------------------
+
+Mandatory Variable
+
 TG_BOT_TOKEN: Create a bot using @BotFather, and get the Telegram API token.
 
 APP_ID
@@ -69,6 +86,8 @@ AUTH_CHANNEL: Create a Super Group in Telegram, add @GoogleIMGBot to the group, 
 OWNER_ID: ID of the bot owner, He/she can be abled to access bot in bot only mode too(private mode).
 
 KOT_BOTS
+
+---------------------&-------------------------------------------------------------------------------------------------------------------------------------------------
 
 Optional Configuration Variables
 
@@ -133,3 +152,6 @@ UPLOAD_AS_DOC: Takes two option True or False. If True file will be uploaded as 
 INDEX_LINK: (Without / at last of the link, otherwise u will get error) During creating index, plz fill Default Root ID with the id of your DESTINATION_FOLDER after creating. Otherwise index will not work properly.
 
 DESTINATION_FOLDER: Name of your folder in ur respective drive where you want to upload the files using the bot.
+
+
+----------------&------------------------------------------------------------------------_------------------------------------------------
